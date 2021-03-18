@@ -2,8 +2,8 @@
 categories: 
    - Algorithm
 tags:
+   - Codility
    - Arrays
-   - OddOccurrencesInArray
 ---
 
 ## 1차 시도 - 66%

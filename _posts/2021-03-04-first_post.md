@@ -2,8 +2,7 @@
 categories: 
    - Etc
 tags:
-   - hello
-   - start
+   - First_Post
 ---
 # 첫 게시글
 
