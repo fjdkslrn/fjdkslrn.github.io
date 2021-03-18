@@ -1,3 +1,11 @@
+---
+categories: 
+   - Algorithm
+tags:
+   - Arrays
+   - OddOccurrencesInArray
+---
+
 ## 1차 시도 - 66%
 딕셔너리에 key:값, value:카운트 로 해서 리스트 한바퀴 돌고 마지막에 딕셔너리에서 value값이 1인 요소의 key값 리턴
 
