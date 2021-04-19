@@ -15,7 +15,7 @@ tags:
 
 ### 프로세스란?
 - 컴퓨터에서 연속적으로 실행되고 있는 프로그램.
-- 프로세스라는 용어는 작업, task, job 이라는 용어와 혼용.
+- 프로세스라는 용어는 **작업, task, job** 이라는 용어와 혼용.
 - 응용프로그램 != 프로세스
    - 응용프로그램은 여러개의 프로세스로 이루어질 수 있음.
    - 하나의 응용 프로그램은 여러 개의 프로세스(프로그램)가 상호작용을 하면서 실행될 수도 있음.(?)
@@ -46,6 +46,7 @@ tags:
 
 <br>
 
+### 🏆처리과정
 <img src="/assets/images/computerscience/schedulingAlgol.png" width="" height="" title="schedulingAlgol" alt="schedulingAlgol"/>
 
 <br>
