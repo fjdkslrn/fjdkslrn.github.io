@@ -11,8 +11,8 @@ tags:
 
 ### 멀티프로그래밍과 Wait
 - 멀티프로그래밍: CPU 활용도를 극대화 하는 스케쥴링 기술
-- Wait: 간단한 예로 저장매체로부터 파일 읽기를 기다리는 시간으로 가정.
-프로세스 A/B/C가 실행/대기 등으로 상태가 바뀜.
+- Wait: 간단한 예로 저장매체로부터 파일 읽기를 기다리는 시간으로 가정.  
+**프로세스 A/B/C가 실행/대기 등으로 상태가 바뀜.**
 
 <img src="/assets/images/computerscience/multiWait.png" width="70%" height="" title="multiWait" alt="multiWait"/>
 
@@ -28,7 +28,8 @@ tags:
 <br>
 
 ### 프로세스 상태 간 관계
-CPU 처리 순서 연습해보기!! 가장 기본적인 Queue
+CPU 처리 순서 연습해보기!! 가장 기본적인 Queue + 시분할
+
 <img src="/assets/images/computerscience/processExercise.png" width="70%" height="" title="processExercise" alt="processExercise"/>
 
 <br>
