@@ -20,7 +20,7 @@ title                    : "fjdkslrn Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "LYC"
-description              : "Coding/Data/Music/GunPra/Travel"
+description              : "Coding/Music/Travel"
 url                      : "https://fjdkslrn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "LYC"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "coding/data/music"
+  bio              : "coding/music"
   location         : "KR"
   email            :
   links:
