@@ -105,3 +105,28 @@ tags:
 
     
     ```
+- 순열느낌(?!)
+    ```python
+    # 이렇게 하면 순열임. 중복없이 하나씩 뽑는것.
+    for i in range(n):
+        for j in range(i+1, n):
+            for m in range(j+1, n):
+                print(i, j, m)
+    ```
+- 최소값 구할때 팁
+    ```python
+    arr=[1,2,3,4,5]
+
+    # 1. 무한대로 해놓고 처음부터 비교
+    arr_min=float('inf')
+    for i in range(len(arr)):
+
+    # 2. 배열의 첫번째 값을 넣고 그 다음부터 비교
+    arr_min=arr[0]
+    for i in range(1, len(arr)):
+
+        # 여기 if에서 같은지(=등호)를 포함하냐 안하냐에 따라서 마지막 최솟값/처음 최솟값 의 인덱스가 달라질 수 있음.
+        # 문제에서 요구하는걸 잘 보면 좋을것.
+        if arr[i]<arr_min:
+            arr_min=arr[i]
+    ```
